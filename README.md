@@ -58,7 +58,7 @@ The following live templates are in the `Laravel.xml` file.
 - `r::p` Route::post()
 - `r::r` Route::resource()
 
-####
+#### Form
 - `f::c` Form::close()
 - `f::cb` Form::checkbox()
 - `f::e` Form::email()
@@ -72,6 +72,12 @@ The following live templates are in the `Laravel.xml` file.
 - `f::su` Form::submit()
 - `f::t` Form::text()
 - `f::ta` Form::textarea()
+
+#### Input
+- `i::g` Input::get()
+- `i::o` Input::only()
+- `i::e` Input::except()
+- `i::old` Input::old()
 
 #### Views
 - `v::m` View::make()
